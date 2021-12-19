@@ -28,3 +28,13 @@ The Ariana Grande CSV file may not be configured on google colab (because google
 Troubleshooting & FAQ
 
 If the user receives errors when attempting to run the program please ensure that arianagrande_spotify.csv is uploaded to the environment. If the graphs are not loaded, please ensure the packages have been run. 
+
+Citations 
+
+Dae Bardhoshi, September 30th, "Music System", Source Code,  https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Music%20System.ipynb
+
+Rafael Duarte, March 19th, “Spotify_K_Means_Clustering”, Source Code, 
+https://github.com/rafaelnduarte/Spotify_K-Means_Clustering/blob/master/Spotify_Clulstering.ipynb
+
+Rohit Kumar Thakur, August 30th, "Spotify Data Visualization and Analysis using Python" Source code, https://medium.com/geekculture/spotify-data-visualization-and-analysis-using-python-4af81c5531a7
+
