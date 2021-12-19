@@ -1,0 +1,91 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,shut up,Positions (Deluxe),Ariana Grande,2021-02-19,157710,58,0.499,0.801,0.499,0.462,0.0,0.0946,-5.308,0.0312,127.698,4
+1,34+35,Positions (Deluxe),Ariana Grande,2021-02-19,173710,60,0.83,0.237,0.83,0.585,0.0,0.248,-6.476,0.094,109.978,4
+2,motive (with Doja Cat),Positions (Deluxe),Ariana Grande,2021-02-19,167989,63,0.789,0.0681,0.789,0.742,0.0,0.166,-5.664,0.0652,116.965,4
+3,just like magic,Positions (Deluxe),Ariana Grande,2021-02-19,149900,59,0.719,0.08,0.719,0.607,0.0,0.125,-5.156,0.165,128.006,4
+4,off the table (with The Weeknd),Positions (Deluxe),Ariana Grande,2021-02-19,239949,58,0.411,0.519,0.411,0.522,0.0,0.398,-7.295,0.0981,88.332,1
+5,six thirty,Positions (Deluxe),Ariana Grande,2021-02-19,183874,57,0.739,0.67,0.739,0.516,0.0,0.151,-7.154,0.0539,120.109,4
+6,safety net (feat. Ty Dolla $ign),Positions (Deluxe),Ariana Grande,2021-02-19,208457,59,0.552,0.0703,0.552,0.599,0.0,0.0986,-5.75,0.0404,161.884,4
+7,my hair,Positions (Deluxe),Ariana Grande,2021-02-19,158436,58,0.686,0.0815,0.686,0.526,7.75e-06,0.144,-6.842,0.0374,92.013,4
+8,nasty,Positions (Deluxe),Ariana Grande,2021-02-19,200732,59,0.772,0.0814,0.772,0.506,1.1e-05,0.182,-6.558,0.139,127.894,4
+9,west side,Positions (Deluxe),Ariana Grande,2021-02-19,132278,56,0.688,0.186,0.688,0.455,0.0,0.0794,-8.632,0.199,87.865,4
+10,love language,Positions (Deluxe),Ariana Grande,2021-02-19,179860,57,0.688,0.0686,0.688,0.573,0.0,0.0749,-5.03,0.208,110.034,4
+11,positions,Positions (Deluxe),Ariana Grande,2021-02-19,172324,60,0.737,0.468,0.737,0.802,0.0,0.0931,-4.771,0.0878,144.015,4
+12,obvious,Positions (Deluxe),Ariana Grande,2021-02-19,146958,57,0.624,0.0967,0.624,0.672,0.0,0.155,-5.334,0.106,159.852,4
+13,pov,Positions (Deluxe),Ariana Grande,2021-02-19,201882,60,0.487,0.36,0.487,0.534,0.0,0.1,-5.664,0.0555,131.798,4
+14,someone like u - interlude,Positions (Deluxe),Ariana Grande,2021-02-19,76742,59,0.639,0.175,0.639,0.544,2.44e-05,0.14,-9.5,0.0383,118.158,4
+15,test drive,Positions (Deluxe),Ariana Grande,2021-02-19,122174,70,0.698,0.0251,0.698,0.708,0.0,0.124,-4.943,0.0454,115.036,4
+16,"34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix",Positions (Deluxe),Ariana Grande,2021-02-19,182437,70,0.659,0.211,0.659,0.662,0.0,0.228,-5.768,0.434,109.957,4
+17,worst behavior,Positions (Deluxe),Ariana Grande,2021-02-19,124281,65,0.726,0.37,0.726,0.667,0.0,0.118,-5.956,0.0617,100.053,4
+18,main thing,Positions (Deluxe),Ariana Grande,2021-02-19,129080,62,0.734,0.317,0.734,0.475,1.41e-06,0.113,-7.77,0.0403,134.119,4
+19,imagine,"thank u, next",Ariana Grande,2019-02-08,212266,72,0.729,0.378,0.729,0.475,0.0,0.12,-4.985,0.0364,62.52,3
+20,needy,"thank u, next",Ariana Grande,2019-02-08,171573,74,0.647,0.78,0.647,0.309,7.41e-06,0.202,-7.948,0.0366,87.045,4
+21,NASA,"thank u, next",Ariana Grande,2019-02-08,182000,70,0.747,0.451,0.747,0.458,0.0,0.252,-6.891,0.303,75.029,4
+22,bloodline,"thank u, next",Ariana Grande,2019-02-08,216893,71,0.758,0.0815,0.758,0.665,0.000157,0.216,-5.188,0.0774,151.976,4
+23,fake smile,"thank u, next",Ariana Grande,2019-02-08,208880,69,0.45,0.329,0.45,0.619,0.0,0.319,-7.412,0.372,83.3,4
+24,bad idea,"thank u, next",Ariana Grande,2019-02-08,267106,70,0.847,0.0268,0.847,0.579,0.0545,0.102,-5.314,0.0719,137.998,4
+25,make up,"thank u, next",Ariana Grande,2019-02-08,140693,67,0.671,0.0844,0.671,0.714,1.48e-06,0.0568,-5.373,0.21,105.137,3
+26,ghostin,"thank u, next",Ariana Grande,2019-02-08,271466,70,0.287,0.418,0.287,0.364,1.8e-05,0.185,-8.295,0.0306,103.777,4
+27,in my head,"thank u, next",Ariana Grande,2019-02-08,222946,72,0.662,0.173,0.662,0.6,0.000137,0.109,-6.402,0.0703,134.979,4
+28,7 rings,"thank u, next",Ariana Grande,2019-02-08,178626,86,0.778,0.592,0.778,0.317,0.0,0.0881,-10.732,0.334,140.048,4
+29,"thank u, next","thank u, next",Ariana Grande,2019-02-08,207320,83,0.717,0.229,0.717,0.653,0.0,0.101,-5.634,0.0658,106.966,4
+30,"break up with your girlfriend, i'm bored","thank u, next",Ariana Grande,2019-02-08,190440,79,0.726,0.0421,0.726,0.554,0.0,0.106,-5.29,0.0917,169.999,4
+31,raindrops (an angel cried),Sweetener,Ariana Grande,2018-08-17,37640,66,0.336,0.942,0.336,0.231,0.0,0.188,-6.217,0.0497,168.685,5
+32,blazed (feat. Pharrell Williams),Sweetener,Ariana Grande,2018-08-17,196360,57,0.795,0.0793,0.795,0.759,0.0,0.0805,-6.348,0.0528,110.021,4
+33,the light is coming (feat. Nicki Minaj),Sweetener,Ariana Grande,2018-08-17,228373,63,0.877,0.0122,0.877,0.547,1.51e-05,0.028,-5.705,0.18,99.034,4
+34,R.E.M,Sweetener,Ariana Grande,2018-08-17,245666,69,0.831,0.375,0.831,0.485,1.47e-05,0.118,-6.677,0.15,80.022,4
+35,God is a woman,Sweetener,Ariana Grande,2018-08-17,197546,81,0.602,0.0233,0.602,0.658,6e-05,0.237,-5.934,0.0558,145.031,4
+36,sweetener,Sweetener,Ariana Grande,2018-08-17,208493,68,0.721,0.248,0.721,0.459,0.0,0.212,-6.408,0.032,119.914,4
+37,successful,Sweetener,Ariana Grande,2018-08-17,227386,68,0.847,0.107,0.847,0.603,7.4e-06,0.106,-4.607,0.0397,114.045,4
+38,everytime,Sweetener,Ariana Grande,2018-08-17,172106,71,0.71,0.186,0.71,0.614,0.0,0.0974,-6.757,0.0431,148.152,4
+39,breathin,Sweetener,Ariana Grande,2018-08-17,198160,75,0.568,0.0211,0.568,0.656,1.37e-05,0.213,-5.413,0.0433,100.049,4
+40,no tears left to cry,Sweetener,Ariana Grande,2018-08-17,205920,80,0.699,0.04,0.699,0.713,3.11e-06,0.294,-5.507,0.0594,121.993,4
+41,borderline (feat. Missy Elliott),Sweetener,Ariana Grande,2018-08-17,177533,59,0.761,0.058,0.761,0.818,0.0,0.11,-5.238,0.0978,110.99,4
+42,better off,Sweetener,Ariana Grande,2018-08-17,171333,67,0.597,0.216,0.597,0.524,0.0,0.112,-7.247,0.0537,92.568,4
+43,goodnight n go,Sweetener,Ariana Grande,2018-08-17,189506,72,0.708,0.0217,0.708,0.454,0.0,0.073,-7.07,0.0395,110.963,4
+44,pete davidson,Sweetener,Ariana Grande,2018-08-17,73813,63,0.652,0.43,0.652,0.31,1.16e-05,0.182,-10.212,0.0509,119.913,4
+45,get well soon,Sweetener,Ariana Grande,2018-08-17,322026,64,0.604,0.657,0.604,0.449,0.0,0.0932,-6.564,0.0353,100.355,4
+46,Moonlight,Dangerous Woman,Ariana Grande,2016-05-20,202360,58,0.633,0.42,0.633,0.412,3.57e-06,0.048,-7.339,0.0284,102.215,3
+47,Dangerous Woman,Dangerous Woman,Ariana Grande,2016-05-20,235946,64,0.664,0.0529,0.664,0.602,0.0,0.356,-5.369,0.0412,134.049,3
+48,Be Alright,Dangerous Woman,Ariana Grande,2016-05-20,179293,64,0.813,0.169,0.813,0.456,2.86e-06,0.105,-7.667,0.0684,108.801,4
+49,Into You,Dangerous Woman,Ariana Grande,2016-05-20,244440,65,0.623,0.0162,0.623,0.734,1.75e-06,0.145,-5.948,0.107,107.853,4
+50,Side To Side,Dangerous Woman,Ariana Grande,2016-05-20,226173,64,0.644,0.0198,0.644,0.723,0.0,0.228,-6.278,0.231,159.17,4
+51,Let Me Love You,Dangerous Woman,Ariana Grande,2016-05-20,223880,60,0.527,0.0295,0.527,0.435,0.0,0.243,-8.363,0.129,102.698,3
+52,Greedy,Dangerous Woman,Ariana Grande,2016-05-20,214880,58,0.59,0.0367,0.59,0.704,0.0,0.0984,-5.303,0.114,109.826,4
+53,Leave Me Lonely,Dangerous Woman,Ariana Grande,2016-05-20,229680,58,0.445,0.599,0.445,0.446,2.21e-05,0.339,-7.468,0.0312,90.927,3
+54,Everyday,Dangerous Woman,Ariana Grande,2016-05-20,194840,59,0.637,0.0149,0.637,0.733,0.0,0.162,-4.413,0.0563,131.004,4
+55,Sometimes,Dangerous Woman,Ariana Grande,2016-05-20,226666,56,0.397,0.0907,0.397,0.666,0.0,0.344,-5.383,0.248,77.915,4
+56,I Don't Care,Dangerous Woman,Ariana Grande,2016-05-20,178026,53,0.591,0.728,0.591,0.403,1.37e-06,0.153,-8.284,0.0431,111.934,4
+57,Bad Decisions,Dangerous Woman,Ariana Grande,2016-05-20,226426,56,0.698,0.0146,0.698,0.645,0.0,0.269,-5.368,0.0416,131.948,4
+58,Touch It,Dangerous Woman,Ariana Grande,2016-05-20,260000,60,0.536,0.0303,0.536,0.694,0.0,0.183,-4.369,0.0332,100.906,4
+59,Knew Better / Forever Boy,Dangerous Woman,Ariana Grande,2016-05-20,299213,58,0.484,0.235,0.484,0.381,3.6e-06,0.0998,-6.705,0.0711,106.65,4
+60,Thinking Bout You,Dangerous Woman,Ariana Grande,2016-05-20,200386,54,0.507,0.0152,0.507,0.696,0.000821,0.121,-6.027,0.0621,102.983,4
+61,Step On Up,Dangerous Woman,Ariana Grande,2016-05-20,180853,62,0.662,0.0874,0.662,0.877,0.0,0.273,-4.185,0.112,110.905,4
+62,Jason's Song (Gave It Away),Dangerous Woman,Ariana Grande,2016-05-20,264640,50,0.65,0.45,0.65,0.655,3.13e-05,0.073,-4.307,0.0631,105.95,4
+63,Intro,My Everything (Deluxe),Ariana Grande,2014-08-25,79840,52,0.447,0.969,0.447,0.182,3.83e-05,0.327,-12.439,0.0324,89.814,4
+64,Problem,My Everything (Deluxe),Ariana Grande,2014-08-25,193920,75,0.66,0.0192,0.66,0.805,8.83e-06,0.159,-5.352,0.153,103.008,4
+65,One Last Time,My Everything (Deluxe),Ariana Grande,2014-08-25,197266,80,0.628,0.093,0.628,0.593,1.65e-06,0.096,-5.036,0.0323,125.026,4
+66,Why Try,My Everything (Deluxe),Ariana Grande,2014-08-25,211880,62,0.443,0.0494,0.443,0.663,0.0,0.153,-5.946,0.0432,159.856,4
+67,Break Free,My Everything (Deluxe),Ariana Grande,2014-08-25,214840,76,0.687,0.0064,0.687,0.702,4.35e-05,0.204,-5.324,0.0455,129.956,4
+68,Best Mistake,My Everything (Deluxe),Ariana Grande,2014-08-25,233733,65,0.654,0.546,0.654,0.578,0.0,0.112,-6.897,0.449,143.867,4
+69,Be My Baby,My Everything (Deluxe),Ariana Grande,2014-08-25,217053,59,0.622,0.0735,0.622,0.586,7.41e-06,0.0803,-6.241,0.0356,145.08,4
+70,Break Your Heart Right Back,My Everything (Deluxe),Ariana Grande,2014-08-25,253386,58,0.726,0.0113,0.726,0.605,0.0,0.0639,-5.673,0.0628,93.93,4
+71,Love Me Harder,My Everything (Deluxe),Ariana Grande,2014-08-25,236133,77,0.472,0.00937,0.472,0.714,0.0,0.0764,-4.389,0.0334,98.992,4
+72,Just A Little Bit Of Your Heart,My Everything (Deluxe),Ariana Grande,2014-08-25,232586,66,0.439,0.692,0.439,0.322,0.0,0.103,-5.959,0.028,77.963,4
+73,Hands On Me,My Everything (Deluxe),Ariana Grande,2014-08-25,192226,54,0.662,0.214,0.662,0.766,0.0,0.324,-5.694,0.0377,97.959,4
+74,My Everything,My Everything (Deluxe),Ariana Grande,2014-08-25,168520,68,0.54,0.88,0.54,0.265,0.0,0.131,-5.307,0.0297,61.975,4
+75,Bang Bang,My Everything (Deluxe),Ariana Grande,2014-08-25,199320,63,0.703,0.283,0.703,0.747,0.0,0.396,-4.446,0.0895,149.974,4
+76,Only 1,My Everything (Deluxe),Ariana Grande,2014-08-25,193986,57,0.656,0.5,0.656,0.842,0.0,0.0787,-5.714,0.24,101.364,4
+77,You Don't Know Me,My Everything (Deluxe),Ariana Grande,2014-08-25,233720,54,0.381,0.0453,0.381,0.631,0.0,0.129,-5.886,0.262,170.187,4
+78,Honeymoon Avenue,Yours Truly,Ariana Grande,2013-01-01,339733,61,0.692,0.218,0.692,0.608,0.0,0.348,-5.233,0.041,125.005,4
+79,Baby I,Yours Truly,Ariana Grande,2013-01-01,197600,69,0.724,0.0152,0.724,0.796,0.0,0.354,-3.686,0.0328,101.975,4
+80,Right There,Yours Truly,Ariana Grande,2013-01-01,247080,57,0.621,0.127,0.621,0.834,0.0,0.0854,-3.166,0.105,156.099,4
+81,Tattooed Heart,Yours Truly,Ariana Grande,2013-01-01,194706,61,0.535,0.414,0.535,0.519,0.0,0.142,-4.161,0.0273,72.06,4
+82,Lovin' It,Yours Truly,Ariana Grande,2013-01-01,180693,50,0.624,0.115,0.624,0.825,0.0,0.276,-3.841,0.0422,93.996,4
+83,Piano,Yours Truly,Ariana Grande,2013-01-01,234426,59,0.738,0.164,0.738,0.804,0.0,0.826,-4.286,0.0815,120.017,4
+84,Daydreamin',Yours Truly,Ariana Grande,2013-01-01,211293,56,0.675,0.234,0.675,0.648,0.0,0.561,-6.003,0.0317,114.051,3
+85,The Way,Yours Truly,Ariana Grande,2013-01-01,227026,69,0.645,0.294,0.645,0.878,0.0,0.076,-3.208,0.113,82.324,4
+86,You’ll Never Know,Yours Truly,Ariana Grande,2013-01-01,214280,52,0.764,0.0546,0.764,0.842,0.0,0.0351,-3.835,0.059,105.015,4
+87,Almost Is Never Enough,Yours Truly,Ariana Grande,2013-01-01,327773,73,0.324,0.825,0.324,0.327,0.0,0.101,-7.494,0.0409,81.328,4
+88,Popular Song,Yours Truly,Ariana Grande,2013-01-01,200213,59,0.666,0.152,0.666,0.81,0.0,0.0613,-4.574,0.0458,99.023,4
+89,Better Left Unsaid,Yours Truly,Ariana Grande,2013-01-01,211226,48,0.594,0.0397,0.594,0.83,0.000145,0.104,-4.024,0.0328,129.998,4
