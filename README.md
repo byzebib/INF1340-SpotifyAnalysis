@@ -29,6 +29,14 @@ Troubleshooting & FAQ
 
 If the user receives errors when attempting to run the program please ensure that arianagrande_spotify.csv is uploaded to the environment. If the graphs are not loaded, please ensure the packages have been run. 
 
+# Expected Outcomes 
+<img width="818" alt="Screen Shot 2021-12-19 at 2 42 18 PM" src="https://user-images.githubusercontent.com/63612469/146693648-326e58de-9cb2-4625-826c-98ddda139797.png">
+
+<img width="742" alt="Screen Shot 2021-12-19 at 5 48 56 PM" src="https://user-images.githubusercontent.com/63612469/146693693-39feaad1-bd79-4c74-b07a-47de17ab9d30.png">
+
+
+
+
 Citations 
 
 Dae Bardhoshi, September 30th, "Music System", Source Code,  https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Music%20System.ipynb
