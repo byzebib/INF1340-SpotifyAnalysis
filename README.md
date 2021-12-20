@@ -15,7 +15,7 @@ This project works by accessing Spotify data to retrieve Ariana Grande’s music
 
 Additionally, the project pulled one of the member’s(Bethlehem Zebib) personal Spotify data to analyze and create cluster predictions of her music tastes.  To do this, Bethlehem sent a request to receive her data from Spotify.  This request usually takes up to a week, however, she received her data within 3 days. The request comes with a ZIP folder of multiple files, the only data we needed was the three JSON files with Bethlehem’s streaming history.  
 
-The final portion of the project involves
+The final portion of the project involves creating suitable k-means clusters of the songs in the Ariana Grande CSV file and Bethlehem's Spotify Data CSV file. Using the Elbow method with the within cluster sum of errors (wcss), the optimal number of clusters was found for both datasets. An analysis was conducted of each cluster that was found based on the features of the songs, this includes features such as dancability, tempo, and energy. The analysis of the clusters can be found in the corresponding files. The purpose of creating the clusters is to use as a base for a recommendation system. If a particular song was chosen by a user a list of similar songs can be 
 
 # Requirements 
 
