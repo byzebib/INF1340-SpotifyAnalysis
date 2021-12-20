@@ -1,11 +1,11 @@
 APIs
 Ariana Grande API
 
-def getTrackIDs(user, playlist_id):
+def TrackIDs(user, playlist_id):
 
 This function works to retrieve Spotify Track ID data using spotipy packages (a Python library for Spotify API) to determine variables such as the id associated with each track and audio features such as name, album, artist, release date, length, and popularity. These ids are later used to associate themselves with each track feature when analyzing and determining the data. The audio features are used to organize the audio information by name, album, artist, release date, length and popularity. 
 
-def getTrackFeatures(id): 
+def TrackFeatures(id): 
 
 This function works to retrieve Spotify data using spotipy packages (a Python library for Spotify API)  and determine properties for music data such as acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, and length that the program later uses to analyze and compare the data. These ids are later used to associate themselves with each track feature when analyzing and determining the data. The properties are used to analyze the audio information by acousticness, danceability, energy, instrumentalness, liveness, loudness, speechiness, tempo, and length of the song. 
 
