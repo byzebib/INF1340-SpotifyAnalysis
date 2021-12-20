@@ -47,7 +47,11 @@ If the user receives errors when attempting to run the program please ensure tha
 
 # Expected Outcomes 
 
-The output from the 
+The output from the files *Betye Stream* and *Ariana Grande Spotify* are csv files that contain information about each song from Bethlehem's streaming history and Ariana Grande's discography. The information about each song involves the features of a song, such as energy, danceability, and loudness. A full list and description of the features can be found here: https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features. 
+
+The output from *arianagrande_analysis* includes bar graphs, scatterplots, and a heatmap that would allow us to do a simple exploratory analysis of Ariana Grande's discography. The output from *Betye Spotify* also includes a radar chart, histograms, and a heat map that was used again for an exploratory analysis of Bethlehem's Spotify streaming history. 
+
+The output from *Ariana Grande K-Means Recommendation* and *Betye Spotify*
 
 ## Citations 
 
