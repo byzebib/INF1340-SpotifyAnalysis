@@ -19,7 +19,11 @@ The final portion of the project involves creating suitable k-means clusters of 
 
 ## Description of Files
 
-**Ariana Grande K-Means Recommendation** - includes the 
+**Ariana Grande Spotify** - includes the code used to pull Ariana Grande's discography from a playlist that was created on Spotify
+**arianagrande_spotify.csv** - CSV file that was created using the code from the *Ariana Grande Spotify* file. This CSV files includes information on each song that was in the original Spotify playlist 
+**Ariana Grande K-Means Recommendation** - includes the data analysis of Ariana Grande's discography using the k-means method
+**Betye Spotify** - includes the code used to pull Bethlehem's spotify streaming history and the corresponding information for each song that was pulled
+**Betye Steam** - includes the analysis of the songs that Bethlehem has streamed along with the analysis of the songs from her streaming history using the k-means method
 
 # Requirements 
 
