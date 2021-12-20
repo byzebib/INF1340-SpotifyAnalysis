@@ -51,7 +51,7 @@ The output from the files *Betye Stream* and *Ariana Grande Spotify* are csv fil
 
 The output from *arianagrande_analysis* includes bar graphs, scatterplots, and a heatmap that would allow us to do a simple exploratory analysis of Ariana Grande's discography. The output from *Betye Spotify* also includes a radar chart, histograms, and a heat map that was used again for an exploratory analysis of Bethlehem's Spotify streaming history. 
 
-The output from *Ariana Grande K-Means Recommendation* and *Betye Spotify*
+The output from *Ariana Grande K-Means Recommendation* and *Betye Spotify* includes an analysis of the data using the K-Means method. This includes creating an Elbow method plot, a 3-D plot of the K-means clusters, and the songs that are included in each one of the specified clusters. Additionally, an analysis was run 
 
 ## Citations 
 
