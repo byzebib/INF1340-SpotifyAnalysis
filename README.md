@@ -23,6 +23,8 @@ The final portion of the project involves creating suitable k-means clusters of 
 
 **arianagrande_spotify.csv** - CSV file that was created using the code from the *Ariana Grande Spotify* file. This CSV files includes information on each song that was in the original Spotify playlist 
 
+**arianagrande_analysis** - includes the clean up of the data from the CSV file and an analysis of Ariana Grande's discography
+
 **Ariana Grande K-Means Recommendation** - includes the data analysis of Ariana Grande's discography using the k-means method
 
 **Betye Stream** - includes the code used to pull Bethlehem's spotify streaming history and the corresponding information for each song that was pulled
@@ -44,19 +46,18 @@ The Ariana Grande CSV file may not be configured on google colab (because google
 If the user receives errors when attempting to run the program please ensure that arianagrande_spotify.csv or MySpotifyData.csv is uploaded to the environment based on which file is being run. If the graphs are not loaded, please ensure the packages have been run. 
 
 # Expected Outcomes 
-<img width="818" alt="Screen Shot 2021-12-19 at 2 42 18 PM" src="https://user-images.githubusercontent.com/63612469/146693648-326e58de-9cb2-4625-826c-98ddda139797.png">
 
-<img width="742" alt="Screen Shot 2021-12-19 at 5 48 56 PM" src="https://user-images.githubusercontent.com/63612469/146693693-39feaad1-bd79-4c74-b07a-47de17ab9d30.png">
-
-
-
+The output from the 
 
 ## Citations 
 
 Dae Bardhoshi, September 30th, "Music System", Source Code,  https://github.com/DeaBardhoshi/Data-Science-Projects/blob/main/Music%20System.ipynb
+
+Dietzel, A. (2020, March 25). How to extract any artist's data using Spotify's API, python, and spotipy. Medium. Retrieved December 20, 2021, from https://betterprogramming.pub/how-to-extract-any-artists-data-using-spotify-s-api-python-and-spotipy-4c079401bc37 
 
 Rafael Duarte, March 19th, “Spotify_K_Means_Clustering”, Source Code, 
 https://github.com/rafaelnduarte/Spotify_K-Means_Clustering/blob/master/Spotify_Clulstering.ipynb
 
 Rohit Kumar Thakur, August 30th, "Spotify Data Visualization and Analysis using Python" Source code, https://medium.com/geekculture/spotify-data-visualization-and-analysis-using-python-4af81c5531a7
 
+Web API reference: Spotify for developers. Home. (n.d.). Retrieved December 20, 2021, from https://developer.spotify.com/documentation/web-api/reference/#/operations/get-audio-features 
