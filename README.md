@@ -27,6 +27,8 @@ The final portion of the project involves creating suitable k-means clusters of 
 
 **Betye Spotify** - includes the code used to pull Bethlehem's spotify streaming history and the corresponding information for each song that was pulled
 
+**MySpotifyData.csv** - CSV file that contains information regarding each song from Bethlehem's streaming history
+
 **Betye Steam** - includes the analysis of the songs that Bethlehem has streamed along with the analysis of the songs from her streaming history using the k-means method
 
 # Requirements 
